@@ -21,6 +21,9 @@
     </a>-->
     <a href="https://t.me/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+      <a href="https://career.habr.com/kristinaartyukova" target="_blank">
+      <img src="https://telegrator.ru/wp-content/uploads/2020/03/chat_avatar-349.jpg" width="40" height="40" alt="habr" />
+    </a>
     </a>
   </div>
 
