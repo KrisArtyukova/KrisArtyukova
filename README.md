@@ -26,7 +26,7 @@
       <img src="https://telegrator.ru/wp-content/uploads/2020/03/chat_avatar-349.jpg" width="40" height="40" alt="habr" />
       </a>
        <a href="https://coderun.yandex.ru/catalog" target="_blank">
-      <img src="https://coderun.yandex.ru/profile/_next/image?url=https%3A%2F%2Fyastatic.net%2Fq%2Flogoaas%2Fv2%2FYandex%25E2%2580%25AF.svg%3Fcircle%3Dred%26first%3Dwhite%26single%3D1&amp;w=64&amp;q=75" width="40" height="40" alt="CodeRun" />
+      <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNzMuMTYwMDAwMDAwMDAwMDEiIGhlaWdodD0iNjkuMTQ4MDAwMDAwMDAwMDEiPjxyZWN0IHdpZHRoPSIzNS4zNjI3NzYwMjUyMzY2IiBoZWlnaHQ9IjQyLjgwNzU3MDk3NzkxNzk4IiB4PSIxNi43NTA3ODg2NDM1MzMxMjQiIHk9IjEzLjAyODM5MTE2NzE5MjQzIiBmaWxsPSIjZmZmIi8+PHBhdGggZmlsbD0iI2ZjM2YxZCIgZD0iTTM0LjYzLTAuMThDMTUuNTItMC4xOCAwIDE1LjI4IDAgMzQuMjhDMCA1My4zNCAxNS41MiA2OC43MyAzNC42MyA2OC43M0M1My42OSA2OC43MyA2OS4yMSA1My4zNCA2OS4yMSAzNC4yOEM2OS4yMSAxNS4yOCA1My42OS0wLjE4IDM0LjYzLTAuMThaTTM4LjIzIDU0Ljc1TDMxLjA5IDU0Ljc1TDMxLjA5IDQzLjAxTDE3LjY0IDEzLjc1TDI1LjA4IDEzLjc1TDM1LjU4IDM2LjY0QzM3LjU4IDQxLjAxIDM4LjIzIDQyLjU0IDM4LjIzIDQ3Ljc5Wk00Mi44OSAzMy41N0wzNS42NCAzMy41N0w0NC4zNyAxMy43NUw1MS42MyAxMy43NVoiLz48cGF0aCBmaWxsPSIjMDAwIiBkPSIiLz48L3N2Zz4=" width="40" height="40" alt="CodeRun" />
     </a>
   </div>
 
