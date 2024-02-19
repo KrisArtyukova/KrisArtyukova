@@ -21,9 +21,12 @@
     </a>-->
     <a href="https://t.me/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
       <a href="https://career.habr.com/kristinaartyukova" target="_blank">
       <img src="https://telegrator.ru/wp-content/uploads/2020/03/chat_avatar-349.jpg" width="40" height="40" alt="habr" />
-    </a>
+      </a>
+       <a href="https://coderun.yandex.ru/catalog" target="_blank">
+      <img src="https://coderun.yandex.ru/profile/_next/image?url=https%3A%2F%2Fyastatic.net%2Fq%2Flogoaas%2Fv2%2FYandex%25E2%2580%25AF.svg%3Fcircle%3Dred%26first%3Dwhite%26single%3D1&amp;w=64&amp;q=75" width="40" height="40" alt="CodeRun" />
     </a>
   </div>
 
