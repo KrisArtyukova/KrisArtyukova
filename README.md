@@ -1,9 +1,9 @@
 
 <!--* 🌍  Нахожусь в Москве
 <!--* 🖥️  Посмотреть мое [Портфолио](http://github.com/KrisArtyukova)-->
-* 🧠  Сейчас изучаю React, SCSS
+<!-* 🧠  Сейчас изучаю React, SCSS-->
 
--  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-kristinaartyukova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kristuylka) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kristina.artyukova@gmail.com)-->
+<!--  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-kristinaartyukova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kristuylka) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kristina.artyukova@gmail.com)-->
 
 ---
 
